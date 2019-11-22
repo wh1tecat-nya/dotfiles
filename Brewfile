@@ -68,7 +68,7 @@ cask "discord"
 ## duet
 cask "duet"
 ## eqMac
-cask "eqmac"
+#cask "eqmac"
 ## gimp
 cask "gimp"
 ## google-backup-and-sync
