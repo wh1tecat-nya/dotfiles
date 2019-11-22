@@ -1,0 +1,7 @@
+[user]
+	email = whitequeen0@gmail.com
+	name = wh1tecat
+[diff]
+	tool = default-difftool
+[difftool "default-difftool"]
+	cmd = code --wait --diff $LOCAL $REMOTE
